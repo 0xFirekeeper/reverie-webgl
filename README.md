@@ -5,6 +5,7 @@
 > I was able to integrate their SDK in my fun game's Inventory and Shop systems seamlessly.
 > This game features a single themed "Playground" level that I was able to create within a few days!
 >  *Try Reverie Out Now @ https://0xfirekeeper.github.io/Reverie/*
+> You can get Goerli Testnet ETH Here If You Need It: https://goerlifaucet.com/
 
 ## Hackathon Main Requirements
 - Your project must use the **web3.unity in-game embeddable NFT marketplace** prefab.
