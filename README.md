@@ -25,7 +25,6 @@
 - `Endless Fun!` Huge Variety Of Mechanics To Play Around With, Go Find Out!
 
 ## Reverie | Web3 Features
-- `Blockchain` If you decide 
 - `ERC1155 NFTs` Supply minted natively on the ChainSafe Marketplace WebUI, Users Never Have To Leave The Game!
 - `Inventory System` Display Reverie Skin NFTs, Equip or List them on the ChainSafe Marketplace!
 - `Shop System` Display ChainSafe Marketplace-Listed Reverie NFTs & Purchase Them!
